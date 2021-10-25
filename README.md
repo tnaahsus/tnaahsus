@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnaahsus
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React
 - 📫 How to reach me email:sushantshetty2001@gmail.com
 
 <!---
