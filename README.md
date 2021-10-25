@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Sushant</h2>
+<h1 align="center">👋 Hi, I’m Sushant</h2>
 <p align="center"> 
 <img src="https://cdn.icon-icons.com/icons2/512/PNG/128/dbs-mongodb_icon-icons.com_50910.png" alt="M" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="E" width="30" height="30"/>
