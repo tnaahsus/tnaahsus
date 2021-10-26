@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I’m Sushant</h1>
 <p align="center"> 
-<img src="https://cdn.icon-icons.com/icons2/512/PNG/128/dbs-mongodb_icon-icons.com_50910.png" alt="M" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="E" width="30" height="30"/>
-<img src="https://cdn-icons-png.flaticon.com/512/50/50024.png" alt="R" width="30" height="30"/>
-<img src="https://cdn.icon-icons.com/icons2/2648/PNG/512/dev_node_icon_160853.png" alt="N" width="30" height="30"/>
+<img src="https://img.icons8.com/color/452/mongodb.png" alt="M" width="30" height="30"/>
+<img src="https://png2.cleanpng.com/sh/a2d1da55817bb66c415fc0520f21d4f5/L0KzQYm3VsA2N6loeZH0aYP2gLBuTf1maZ8yi9H1dYTsf7A0kCRia5wyfep5cnX2g37xk71vd5VqRdx8LXrkhrL6gCJqeKUyTdQ6NkS6crWAU8NlaWMzSKo7MEK5RYO4VcI5OWk7UKM8NEe1PsH1h5==/kisspng-mean-solution-stack-express-js-node-js-javascript-5b1647bd733da2.082026521528186813472.png" alt="E" width="50" height="30"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="R" width="30" height="30"/>
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="N" width="30" height="30"/>
 </p>
 
 
