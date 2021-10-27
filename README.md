@@ -28,7 +28,7 @@
   <a href="https://twitter.com/tnaahsus">
     <img src="https://img.shields.io/badge/tnaahsus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/tnaahsus">
+  <a href="https://www.reddit.com/user/tnaahsus">
     <img src="https://img.shields.io/badge/u/tnaahsus-FF4500?style=for-the-badge&logo=reddit&logoColor=black" />        
   </a>&nbsp;&nbsp;
   
