@@ -22,13 +22,13 @@
 
 <p  align='center'>
   
-  <a href="https://www.linkedin.com/in/sushant-shetty-6b6b8720b/">
+  <a href="https://www.linkedin.com/in/sushant-shetty-6b6b8720b/" target="_blank">
     <img src="https://img.shields.io/badge/Sushant%20Shetty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/tnaahsus">
+  <a href="https://twitter.com/tnaahsus" target="_blank">
     <img src="https://img.shields.io/badge/tnaahsus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/tnaahsus">
+  <a href="https://www.reddit.com/user/tnaahsus" target="_blank">
     <img src="https://img.shields.io/badge/u/tnaahsus-FF4500?style=for-the-badge&logo=reddit&logoColor=black" />        
   </a>&nbsp;&nbsp;
   
