@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Sushant</h1>
 <p align="center"> 
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="M" width="30" height="30"/>
-<img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.daaf10a3ec.svg" alt="E" width="50" height="30"/>
+<img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.daaf10a3ec.svg" alt="E" width="30" height="30"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="R" width="30" height="30"/>
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="N" width="30" height="30"/>
 </p>
