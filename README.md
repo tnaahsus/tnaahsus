@@ -14,7 +14,7 @@
 - 🌱 I’m currently working on my backend skills
 </div>
 <div align='center'>
-- 📫 How to reach me email: sushantshetty2001@gmail.com
+- 📫 How to reach me email: **sushantshetty2001@gmail.com**
 </div>
 <p align='center'>
 </p>
