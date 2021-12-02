@@ -31,5 +31,10 @@
   <a href="https://www.reddit.com/user/tnaahsus" target="_blank">
     <img src="https://img.shields.io/badge/u/tnaahsus-FF4500?style=for-the-badge&logo=reddit&logoColor=black" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://www.reddit.com/user/tnaahsus" target="_blank">
+    <img src="https://img.shields.io/badge/u/tnaahsus-FF4500?style=for-the-badge&logo=reddit&logoColor=black" />        
+  </a>&nbsp;&nbsp;
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnaahsus&show_icons=true&locale=en&layout=compact" alt="tnaahsus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnaahsus&show_icons=true&locale=en" alt="tnaahsus" /></p>
+
