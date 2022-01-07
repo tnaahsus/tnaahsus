@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m Sushant</h1>
+<h1 align="center">👋 Hi, I’m Sushant <p align='center'>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=tnaahsus&label=Profile%20views&color=yellow&style=flat" alt="tnaahsus" /></p></h1>
+
 <p align="center"> 
 <img src="https://img.icons8.com/color/452/mongodb.png"  alt="M" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="E" width="30" height="30"/>
@@ -6,7 +7,7 @@
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="N" width="30" height="30"/>
 </p>
 
-<p align='center'>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=tnaahsus&label=Profile%20views&color=yellow&style=flat" alt="tnaahsus" /></p>
+
 <div align='center'>
 - 👀 I’m interested in Web development
 </div>
