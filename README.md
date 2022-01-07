@@ -6,7 +6,7 @@
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="N" width="30" height="30"/>
 </p>
 
-
+<p align='center'>&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=tnaahsus&label=Profile%20views&color=yellow&style=flat" alt="tnaahsus" /></p>
 <div align='center'>
 - 👀 I’m interested in Web development
 </div>
@@ -34,4 +34,5 @@
 </p>
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnaahsus&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tnaahsus" /></p>
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnaahsus&show_icons=true&locale=en&theme=gruvbox" alt="tnaahsus" /></p>
-
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnaahsus&&hide_border=false&&theme=gruvbox&&show_icons=true" alt="tnaahsus" /></p>
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=viren-vii&&hide_border=false&&theme=dark&&show_icons=true -->
