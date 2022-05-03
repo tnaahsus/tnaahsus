@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi, I’m Sushant</h1>
 
-<p align="center"> 
+<!-- <p align="center"> 
 <img src="https://img.icons8.com/color/452/mongodb.png"  alt="M" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="E" width="30" height="30"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="R" width="30" height="30"/>
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="N" width="30" height="30"/>
-</p>
+</p> -->
 
 
-<div align='center'>
+<!-- <div align='center'>
 - 👀 I’m interested in Web development
 </div>
 <div align='center'>
 - 🌱 I’m currently working on my backend skills
-</div>
+</div> -->
 <div align='center'>
-- 📫 How to reach me <a href="mailto:sushantshetty2001@gmail.com">sushantshetty2001@gmail.com</a>
+📫 How to reach me <a href="mailto:sushantshetty2001@gmail.com">sushantshetty2001@gmail.com</a>
 </div>
 <p align='center'>
 </p>
